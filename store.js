@@ -16,48 +16,48 @@ module.exports = {
             var hotels = [];
             //for (var i = 1; i <= 5; i++) {
                 hotels.push({
-                    name: destination + ' Feature ' + '1',
+                    name: "店舗管理",
                     location: destination,
                     rating: Math.ceil(Math.random() * 5),
                     numberOfReviews: Math.floor(Math.random() * 5000) + 1,
                     priceStarting: Math.floor(Math.random() * 450) + 80,
-                    image: 'https://placeholdit.imgix.net/~text?txtsize=35&txt=Feature 1+' + '&w=500&h=260'
+                    image: 'http://www.gulfnet.co.jp/csm/img/contents/function/shopmanagement/function01-image01.png'
                 });
 				
                 hotels.push({
-                    name: destination + ' Feature ' + '2',
+                    name:  '勤怠管理',
                     location: destination,
                     rating: Math.ceil(Math.random() * 5),
                     numberOfReviews: Math.floor(Math.random() * 5000) + 1,
                     priceStarting: Math.floor(Math.random() * 450) + 80,
-                    image: 'https://placeholdit.imgix.net/~text?txtsize=35&txt=Feature 2+' + '&w=500&h=260'
+                    image: 'http://www.gulfnet.co.jp/csm/img/contents/function/shopmanagement/function04-image01.png'
                 });		
 				
                 hotels.push({
-                    name: destination + ' Feature ' + '3',
+                    name: '経営管理',
                     location: destination,
                     rating: Math.ceil(Math.random() * 5),
                     numberOfReviews: Math.floor(Math.random() * 5000) + 1,
                     priceStarting: Math.floor(Math.random() * 450) + 80,
-                    image: 'https://placeholdit.imgix.net/~text?txtsize=35&txt=Feature 3+' + '&w=500&h=260'
+                    image: 'http://www.gulfnet.co.jp/csm/img/contents/function/businessmanagement/function02-image01.png'
                 });	
 
                 hotels.push({
-                    name: destination + ' Feature ' + '4',
+                    name: "コミュニケーション",
                     location: destination,
                     rating: Math.ceil(Math.random() * 5),
                     numberOfReviews: Math.floor(Math.random() * 5000) + 1,
                     priceStarting: Math.floor(Math.random() * 450) + 80,
-                    image: 'https://placeholdit.imgix.net/~text?txtsize=35&txt=Feature 4+' + '&w=500&h=260'
+                    image: 'http://www.gulfnet.co.jp/csm/img/contents/function/communication/function01-image01.png'
                 });
 
                 hotels.push({
-                    name: destination + ' Feature ' + '5',
+                    name: '本部機能',
                     location: destination,
                     rating: Math.ceil(Math.random() * 5),
                     numberOfReviews: Math.floor(Math.random() * 5000) + 1,
                     priceStarting: Math.floor(Math.random() * 450) + 80,
-                    image: 'https://placeholdit.imgix.net/~text?txtsize=35&txt=Feature 5+' + '&w=500&h=260'
+                    image: 'http://www.gulfnet.co.jp/csm/img/contents/function/headquarters/function01-image01.png'
                 });				
             //}
 
