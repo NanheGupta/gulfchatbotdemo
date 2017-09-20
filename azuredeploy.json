@@ -39,7 +39,7 @@
     },
     "Project": {
       "type": "string",
-      "defaultValue": "Node/cards-RichCards"
+      "defaultValue": "gulfchatbotdemo"
     },
     "WEBSITE_NODE_DEFAULT_VERSION": {
       "type": "string",
