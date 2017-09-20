@@ -38,8 +38,7 @@
       "type": "string"
     },
     "Project": {
-      "type": "string",
-      "defaultValue": "gulfchatbotdemo"
+      "type": "string"
     },
     "WEBSITE_NODE_DEFAULT_VERSION": {
       "type": "string",
